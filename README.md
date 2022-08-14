@@ -1,4 +1,4 @@
-👋 Hi, I’m @farukia
+<p style="text-align: center"> 👋 Hi, I’m @farukia </p>
 
 
 <!---
