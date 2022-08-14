@@ -1,4 +1,10 @@
-<p style="text-align: center"> 👋 Hi, I’m @farukia </p>
+<p align= "center"> Hi, I’m @farukia 👋
+  <br> she/her
+  <br><br>
+  I work on ✨ random ✨ projects in my freetime, mostly involving front-end website development & design.
+
+</p>
+
 
 
 <!---
