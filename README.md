@@ -1,5 +1,4 @@
-<p align= "center"> Hi, I’m @farukia 👋
-  <br> she/her
+<p align= "center"> Hi 👋
 
 </p>
 
